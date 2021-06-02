@@ -15,7 +15,7 @@ _image_alignmnet-2 (1).ipynb_
  __Result__:  
  1)non_aligmnet_sample
  
- ![Uploading invoice-6.jpg…]()
+ ![](E:/ssl_invoice/data/invoice-8.jpg)
  
 # Parse specific content 
 Run above comment  
