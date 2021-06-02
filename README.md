@@ -8,7 +8,7 @@ At first I'm doing image alignment then doing document detection,Here i'm using 
   pip install numpy 
 # alined samples,Detect Document and Parse content
 Run above command
-_image_alignmnet-2 (1).ipynb>
+_image_alignmnet-2 (1).ipynb_
 
  __Result__:  
  1)non_aligmnet_sample  
@@ -18,8 +18,8 @@ _image_alignmnet-2 (1).ipynb>
  
 # Parse specific content 
 Run above comment  
-_parse_shop_name.ipynb
- __Result__:
+_parse_shop_name.ipynb_   
+ __Result__:  
  Like parse shop name from invoice samples  
  ![Capture-1](https://user-images.githubusercontent.com/45398575/120428934-5f851500-c396-11eb-9f4e-b4f74ff0c306.PNG)
 
