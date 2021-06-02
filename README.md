@@ -11,7 +11,7 @@ For document samples detection,here i'm using google vision api to detect docume
 # alined samples,Detect Document and Parse content
 Run above command
 
-<image_alignmnet-2 (1).ipynb>
+'<image_alignmnet-2 (1).ipynb>'
 
  __Result__:  
  1)non_aligmnet_sample  
