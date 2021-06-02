@@ -13,9 +13,10 @@ Run above command
 _image_alignmnet-2 (1).ipynb_
 
  __Result__:  
- 1)non_aligmnet_sample
+ 1)non_aligmnet_sample  
  
- ![](E:/ssl_invoice/data/invoice-8.jpg)
+ ![invoice-8](https://user-images.githubusercontent.com/45398575/120427565-f1d7e980-c393-11eb-8a12-a77f6d4edb67.jpg)
+ 
  
 # Parse specific content 
 Run above comment  
