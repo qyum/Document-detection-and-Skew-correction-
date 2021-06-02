@@ -8,10 +8,15 @@ For document samples detection,here i'm using google vision api to detect docume
   pip install tensorflow=2.0.0   
   pip install pandas  
   pip install numpy 
-  
-# Detect Document and Parse content
+# alined samples,Detect Document and Parse content
 Run above command  
 _image_alignmnet-2 (1).ipynb_
+
+ __Result__:  
+ 1)non_aligmnet_sample
+ 
+ ![Uploading invoice-6.jpg…]()
+ 
 # Parse specific content 
 Run above comment  
 _parse_shop_name.ipynb_
