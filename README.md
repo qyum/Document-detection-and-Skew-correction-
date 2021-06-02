@@ -4,12 +4,9 @@ For document samples detection,here i'm using google vision api to detect docume
 
 
 # Dependency
-python 3.7
-
-pip install tensorflow=2.0.0
-
-pip install pandas
-
-pip install numpy
+  python 3.7  
+  pip install tensorflow=2.0.0 
+  pip install pandas
+  pip install numpy
 
 
