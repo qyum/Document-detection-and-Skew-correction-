@@ -17,8 +17,8 @@ _image_alignmnet-2 (1).ipynb_
  ![Capture](https://user-images.githubusercontent.com/45398575/120428072-d3beb900-c394-11eb-8975-2a661dafd388.PNG)
  
 # Parse specific content 
-Run above comment  
-_parse_shop_name.ipynb_
+Run above comment: 
+_parse_shop_name.ipynb_   
  __sample__:   
  ![net_1](https://user-images.githubusercontent.com/45398575/120429407-2600d980-c397-11eb-8754-3b31cfe71d2c.png)  
  __Result__:  
