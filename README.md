@@ -9,8 +9,9 @@ For document samples detection,here i'm using google vision api to detect docume
   pip install pandas  
   pip install numpy 
 # alined samples,Detect Document and Parse content
-Run above command  
-_image_alignmnet-2 (1).ipynb_
+Run above command
+
+<image_alignmnet-2 (1).ipynb>
 
  __Result__:  
  1)non_aligmnet_sample  
@@ -20,6 +21,6 @@ _image_alignmnet-2 (1).ipynb_
  
 # Parse specific content 
 Run above comment  
-_parse_shop_name.ipynb_
+<parse_shop_name.ipynb>
 
 
