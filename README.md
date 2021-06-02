@@ -16,7 +16,7 @@ _image_alignmnet-2 (1).ipynb_
  1)non_aligmnet_sample  
  ![invoice-8](https://user-images.githubusercontent.com/45398575/120427565-f1d7e980-c393-11eb-8a12-a77f6d4edb67.jpg)
  2)alignment_sample  
- ![Capture](https://user-images.githubusercontent.com/45398575/120427857-85111f00-c394-11eb-8111-c503239b722b.PNG)
+ ![Capture](https://user-images.githubusercontent.com/45398575/120428072-d3beb900-c394-11eb-8975-2a661dafd388.PNG)
  
 # Parse specific content 
 Run above comment  
