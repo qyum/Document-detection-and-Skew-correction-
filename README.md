@@ -7,7 +7,7 @@ At first I'm doing image alignment then doing document detection,Here i'm using 
   pip install pandas  
   pip install numpy 
 # alined samples,Detect Document and Parse content
-Run above command
+Run above command  
 _image_alignmnet-2 (1).ipynb_
 
  __Result__:  
