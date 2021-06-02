@@ -25,7 +25,9 @@ _parse_shop_name.ipynb_
  ![net_1](https://user-images.githubusercontent.com/45398575/120429407-2600d980-c397-11eb-8754-3b31cfe71d2c.png)  
  __Result__:  
  Like parse shop name from invoice samples  
- ![Capture-1](https://user-images.githubusercontent.com/45398575/120428934-5f851500-c396-11eb-9f4e-b4f74ff0c306.PNG)
+ ![Capture-1](https://user-images.githubusercontent.com/45398575/120428934-5f851500-c396-11eb-9f4e-b4f74ff0c306.PNG)  
+ 
+ # References
 
   
 
