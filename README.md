@@ -1,7 +1,5 @@
 # Document-detection-and-Skew-correction
-For document samples detection,here i'm using google vision api to detect document and parse content from samples.Then parse specific content from invoice samples. 
-
-
+At first I'm doing image alignment then doing document detection,Here i'm using google vision api to detect document and parse content from samples with 100% accuracy.Then parse specific content from invoice samples. 
 
 # Dependency
   python 3.7  
@@ -10,8 +8,7 @@ For document samples detection,here i'm using google vision api to detect docume
   pip install numpy 
 # alined samples,Detect Document and Parse content
 Run above command
-
-'<image_alignmnet-2 (1).ipynb>'
+_image_alignmnet-2 (1).ipynb>
 
  __Result__:  
  1)non_aligmnet_sample  
@@ -21,6 +18,12 @@ Run above command
  
 # Parse specific content 
 Run above comment  
-<parse_shop_name.ipynb>
+_parse_shop_name.ipynb
+ __Result__:
+ Like parse shop name from invoice samples  
+ ![Capture-1](https://user-images.githubusercontent.com/45398575/120428934-5f851500-c396-11eb-9f4e-b4f74ff0c306.PNG)
+
+  
+
 
 
